@@ -1,0 +1,15 @@
+Body {
+    background-color: black;
+    color: white;
+    font-family:white ;
+
+}
+Main {
+text-align: center;
+width: 300px;
+margin: auto;
+background-color: antiquewhite;
+padding: 20px;
+border: 1px solid purple
+
+}
